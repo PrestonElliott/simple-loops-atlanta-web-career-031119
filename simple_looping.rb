@@ -7,6 +7,8 @@ def loop_iterator(number_of_times)
     puts "Welcome to Flatiron School's Web Development Course!"
     if number_of_times >= 7
     break 
+  end
+end
     
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
